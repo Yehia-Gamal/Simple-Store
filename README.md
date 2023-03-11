@@ -1,3 +1,15 @@
+# `Simple Store`
+
+Open [https://yehia-gamal.github.io/Simple-Store](https://yehia-gamal.github.io/Simple-Store) to view it in your browser.
+
+<img src="simple store.jpg" alt="img-website-app">
+<img src="simple store details.jpg" alt="img-website-app">
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
