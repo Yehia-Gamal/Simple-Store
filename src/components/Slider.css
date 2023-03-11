@@ -5,3 +5,12 @@
 .carousel-item {
   height: 60vh;
 }
+
+@media (max-width: 767px) {
+  .carousel-item {
+    height: 30vh;
+  }
+  .col-sm-12.col-md-4.col-lg-3.rounded-3.m-3.p-0 {
+    width: 90%;
+  }
+}
