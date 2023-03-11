@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Simple-Store/static/css/main.76c9d43b.css",
+    "main.js": "/Simple-Store/static/js/main.531352ce.js",
+    "static/media/image-1.jpg": "/Simple-Store/static/media/image-1.29fc5596aba1e3024503.jpg",
+    "static/media/image-3.jpg": "/Simple-Store/static/media/image-3.5dcfa536426a5b14f351.jpg",
+    "static/media/image-2.jpg": "/Simple-Store/static/media/image-2.d03b38e3e2a52d5c0066.jpg",
+    "index.html": "/Simple-Store/index.html",
+    "main.76c9d43b.css.map": "/Simple-Store/static/css/main.76c9d43b.css.map",
+    "main.531352ce.js.map": "/Simple-Store/static/js/main.531352ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76c9d43b.css",
+    "static/js/main.531352ce.js"
+  ]
+}
