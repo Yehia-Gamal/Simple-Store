@@ -1,0 +1,22 @@
+.product-details {
+  min-height: 100vh;
+}
+
+.product-details .card {
+  background-color: #282c34 !important;
+  padding: 50px;
+}
+
+.product-details .card img {
+  width: auto;
+  height: 600px;
+}
+
+.product-details .card .desc {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  height: auto;
+  overflow: auto;
+  line-height: 1.6;
+}
